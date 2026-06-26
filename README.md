@@ -13,7 +13,7 @@ This project demonstrates a simple network divided into two subnets using a rout
 - PC & Printer Connectivity
 
 ## 📊 Topology
-![Network](topology.png)
+![Network](1P.png)
 
 ## ▶️ How to Run
 Open using Cisco Packet Tracer and test connectivity using ping.
